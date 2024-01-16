@@ -311,7 +311,7 @@ algorithms, knowledgebase and AI technology.
 * [Twitter Audit](https://www.twitteraudit.com)
 * [Twitter Chat Schedule](http://tweetreports.com/twitter-chat-schedule)
 * [Twitter Search](http://search.twitter.com)
-
+[twitter trending]([url](https://trending-1.com/))
 ### [↑](#-table-of-contents) Facebook
 
 * [Agora Pulse](http://barometer.agorapulse.com)
